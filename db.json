@@ -38,45 +38,6 @@
     "company": "Benetton",
     "about": "Eiusmod consectetur velit do nisi. In in reprehenderit ut Lorem do duis et sunt. Minim laboris aliquip fugiat sint tempor mollit qui qui commodo excepteur ullamco magna amet. Occaecat voluptate sit irure commodo sunt sint. Enim est et in excepteur nulla reprehenderit reprehenderit duis exercitation. Incididunt laborum adipisicing amet minim est sit ullamco consectetur. Consectetur irure consequat duis nulla duis laborum magna ex ut Lorem occaecat irure dolor.\r\n",
     "relatedProducts": []
-  },
-  {
-    "_id": "5b7daff671c84b59d187a373",
-    "index": 3,
-    "picture": "http://placehold.it/32x32",
-    "price": 2533,
-    "color": "red",
-    "type": "Jumpsuit",
-    "gender": "female",
-    "title": "id consectetur eiusmod",
-    "company": "silkHouse",
-    "about": "Sunt fugiat culpa labore voluptate ex sunt. Id excepteur commodo in qui ea ad commodo. Labore elit elit esse minim nulla. Occaecat sunt consectetur aliquip occaecat excepteur in labore laboris mollit adipisicing occaecat veniam. Lorem excepteur cillum ea nisi magna id cillum irure.\r\n",
-    "relatedProducts": []
-  },
-  {
-    "_id": "5b7daff6efee52649419bc15",
-    "index": 4,
-    "picture": "http://placehold.it/32x32",
-    "price": 4522,
-    "color": "white",
-    "type": "Leggings",
-    "gender": "female",
-    "title": "excepteur ipsum sit",
-    "company": "pantaloons",
-    "about": "Excepteur reprehenderit consectetur anim et amet commodo ullamco adipisicing aliqua. Exercitation pariatur laborum velit deserunt magna ullamco amet irure labore laborum. Consequat anim ipsum labore eu minim ea. Officia dolor est mollit sint ad consequat.\r\n",
-    "relatedProducts": []
-  },
-  {
-    "_id": "5b7daff6e0f23c42af6e4fca",
-    "index": 5,
-    "picture": "http://placehold.it/32x32",
-    "price": 682,
-    "color": "black",
-    "type": "Saree",
-    "gender": "female",
-    "title": "exercitation aliquip veniam",
-    "company": "W",
-    "about": "Occaecat ea quis do cillum deserunt nulla ex dolor. Tempor mollit exercitation officia in laboris id. Amet in nisi exercitation sint do. Reprehenderit id sunt ipsum irure elit aliqua ipsum ut est. Magna incididunt veniam Lorem esse dolor in reprehenderit. Officia ad minim deserunt qui labore dolore consectetur sint ea qui in. Excepteur tempor tempor aliquip dolore cillum Lorem dolor exercitation in nulla.\r\n",
-    "relatedProducts": []
   }
 ]
 }
