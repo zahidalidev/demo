@@ -1,4 +1,5 @@
-[
+{
+  "products": [
   {
     "_id": "5b7daff6fd5cb23999893543",
     "index": 0,
@@ -104,3 +105,4 @@
     "relatedProducts": []
   }
 ]
+}
