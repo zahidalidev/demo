@@ -38,6 +38,19 @@
     "company": "Benetton",
     "about": "Eiusmod consectetur velit do nisi. In in reprehenderit ut Lorem do duis et sunt. Minim laboris aliquip fugiat sint tempor mollit qui qui commodo excepteur ullamco magna amet. Occaecat voluptate sit irure commodo sunt sint. Enim est et in excepteur nulla reprehenderit reprehenderit duis exercitation. Incididunt laborum adipisicing amet minim est sit ullamco consectetur. Consectetur irure consequat duis nulla duis laborum magna ex ut Lorem occaecat irure dolor.\r\n",
     "relatedProducts": []
+  },
+  {
+    "_id": "5b7daff6f3ee120831648675",
+    "index": 3,
+    "picture": "http://placehold.it/32x32",
+    "price": 641,
+    "color": "white",
+    "type": "perfume",
+    "gender": "male",
+    "title": "sunt esse Lorem",
+    "company": "tton",
+    "about": "Eiusmod consectetur velit do nisi. In in reprehenderit ut Lorem do duis et sunt. Minim laboris aliquip fugiat sint tempor mollit qui qui commodo excepteur ullamco magna amet. Occaecat voluptate sit irure commodo sunt sint. Enim est et in excepteur nulla reprehenderit reprehenderit duis exercitation. Incididunt laborum adipisicing amet minim est sit ullamco consectetur. Consectetur irure consequat duis nulla duis laborum magna ex ut Lorem occaecat irure dolor.\r\n",
+    "relatedProducts": []
   }
 ]
 }
