@@ -232,31 +232,5 @@
     "company": "W",
     "about": "Aliquip enim consectetur nostrud culpa exercitation ex. Irure exercitation exercitation do est id nulla aute esse dolore. Et enim esse nulla ipsum cupidatat laborum veniam non elit adipisicing. Excepteur qui fugiat pariatur laboris fugiat occaecat exercitation labore pariatur. Mollit nulla occaecat et sint enim anim et enim nostrud eu irure. Qui enim deserunt aute duis eiusmod amet esse. Sit sint deserunt ad consequat minim mollit ex adipisicing occaecat ea.\r\n",
     "relatedProducts": []
-  },
-  {
-    "_id": "5b7daff62b87aede6dcb15bc",
-    "index": 18,
-    "picture": "http://placehold.it/32x32",
-    "price": 5684,
-    "color": "yellow",
-    "type": "Saree",
-    "gender": "female",
-    "title": "sunt labore aliqua",
-    "company": "pantaloons",
-    "about": "In officia voluptate occaecat in tempor velit voluptate mollit voluptate pariatur. Ex duis consectetur sint eu. Mollit irure duis sint aute ipsum exercitation consequat est cillum ullamco eu ex reprehenderit.\r\n",
-    "relatedProducts": []
-  },
-  {
-    "_id": "5b7daff628002ad099cbbe82",
-    "index": 19,
-    "picture": "http://placehold.it/32x32",
-    "price": 3524,
-    "color": "black",
-    "type": "Shirt",
-    "gender": "female",
-    "title": "fugiat id nisi",
-    "company": "Benetton",
-    "about": "Incididunt laborum ullamco quis Lorem magna aute officia laboris duis aliqua nisi adipisicing in sunt. Excepteur ex dolor sunt aliquip ut. Officia est veniam elit ipsum commodo irure aliqua exercitation incididunt qui voluptate esse et minim. Culpa id sit occaecat non. Dolor commodo in amet culpa cillum amet.\r\n",
-    "relatedProducts": []
   }
 ]
