@@ -1,6 +1,6 @@
 {
   "wishList": [{
-    "_id": "5b7daff6fd5cb23999893543",
+    "id": "5b7daff6fd5cb23999893543",
     "index": 0,
     "picture": "https://image.shutterstock.com/image-vector/moisturizing-cosmetic-products-ad-light-260nw-552433030.jpg",
     "price": 9201,
@@ -17,7 +17,7 @@
   "admin": [],
   "products": [
   {
-    "_id": "5b7daff6fd5cb23999893543",
+    "id": "5b7daff6fd5cb23999893543",
     "index": 0,
     "picture": "https://image.shutterstock.com/image-vector/moisturizing-cosmetic-products-ad-light-260nw-552433030.jpg",
     "price": 9201,
@@ -31,7 +31,7 @@
     "relatedProducts": []
   },
   {
-    "_id": "5b7daff6017d38bca357aa9c",
+    "id": "5b7daff6017d38bca357aa9c",
     "index": 1,
     "picture": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/topic_centers/2019-6/12359-7_Products_for_Ingrown_HairsHeader.jpg?w=1155&h=1528",
     "price": 9887,
@@ -45,7 +45,7 @@
     "relatedProducts": []
   },
   {
-    "_id": "5b7daff6f3ee910838618562",
+    "id": "5b7daff6f3ee910838618562",
     "index": 2,
     "picture": "https://assets.teenvogue.com/photos/5e67a5ed5ecb0e00082eb772/16:9/w_2560%2Cc_limit/Beauty_Tik-Tok_03-09_STORY.jpg",
     "price": 6471,
@@ -59,7 +59,7 @@
     "relatedProducts": []
   },
   {
-    "_id": "5b7daff6f3ee120831648675",
+    "id": "5b7daff6f3ee120831648675",
     "index": 3,
     "picture": "https://wp-en.oberlo.com/wp-content/uploads/2018/08/New-Products.jpg",
     "price": 641,
