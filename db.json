@@ -3,6 +3,7 @@
   "cart": [],
   "member" : [],
   "admin": [],
+  "orders": []
   "products": [
   {
     "id": "5b7daff6fd5cb23999893543",
@@ -25,10 +26,10 @@
     "price": 9887,
     "color": ["white", "black", "blue"],
     "stock": 8,
-    "type": "Saree",
+    "type": "T-Shirt",
     "gender": "female",
     "title": "enim in Lorem",
-    "company": "W",
+    "company": "W Lorem",
     "about": "Et sit laboris duis irure minim aliquip sint ut aliqua velit consectetur magna nisi reprehenderit. Aute sunt dolore excepteur et adipisicing nostrud cillum sint eu amet voluptate in officia ut. Reprehenderit incididunt eu velit ea reprehenderit reprehenderit. Consequat esse fugiat occaecat est adipisicing exercitation. Laborum aliqua irure aliqua ipsum ut magna. Ad ea nulla ipsum quis consequat deserunt id.\r\n",
     "relatedProducts": []
   },
