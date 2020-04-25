@@ -3,14 +3,14 @@
   "cart": [],
   "members" : [
     {
-      "confirmPassword": "12345"
-      "email": "engrzahid612@gmail.com"
-      "fullName": "Zahid Ali"
-      "id": 1
-      "isAdmin": true
-      "orders": []
-      "password": "12345"
-      "phoneNumber": "+923367088018"
+      "confirmPassword": "12345",
+      "email": "engrzahid612@gmail.com",
+      "fullName": "Zahid Ali",
+      "id": 1,
+      "isAdmin": true,
+      "orders": [],
+      "password": "12345",
+      "phoneNumber": "+923367088018",
       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiZW5ncnphaGlkNjEyQGdtYWlsLmNvbSIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.1RZCkshHMr-g3cJir_ESZj5l7sRsE83JvTMozwp-rzQ"
     }
   ],
