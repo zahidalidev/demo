@@ -9,6 +9,8 @@
       "id": 1,
       "isAdmin": true,
       "orders": [],
+      "cart": [],
+      "wishList": [],
       "password": "12345",
       "phoneNumber": "+923367088018",
       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJmdWxsTmFtZSI6IlphaGlkIEFsaSIsImVtYWlsIjoiZW5ncnphaGlkNjEyQGdtYWlsLmNvbSIsInBob25lTnVtYmVyIjoiKzkyMzM2NzA4ODAxOCJ9.1RZCkshHMr-g3cJir_ESZj5l7sRsE83JvTMozwp-rzQ"
